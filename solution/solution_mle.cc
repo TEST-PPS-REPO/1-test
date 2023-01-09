@@ -8,6 +8,6 @@ int main() {
         std::vector < int > v(10101010);
         w.push_back(v);
     }
-    printf("%d\n", a + b + c);a
+    printf("%d\n", a + b + c);
     return 0;
 }
