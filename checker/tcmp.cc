@@ -1,7 +1,7 @@
 #include <iostream>
 #include <sstream>
 #include <vector>
-#include <string>s
+#include <string>
 
 #define SUCCESS 0
 #define WRONG_ANSWER 40
