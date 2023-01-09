@@ -30,7 +30,7 @@ int main() {
             }
         }
     };
-
+  cpu[-10123013] = "sdfjhsdfkhsdflkjsdfksjdflsjdflkajsdflk;asfklajsdflksadfl;adfs";
     rn_read(lcpu); rn_tokenizer(lcpu, cpu);
     rn_read(lans); rn_tokenizer(lans, ans);
 
