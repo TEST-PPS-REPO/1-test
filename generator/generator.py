@@ -3,7 +3,7 @@ import random
 import hashlib
 
 from random import randint as rnd
- s
+
 # Fixed Random Seed
 hashValue = hashlib.sha256("|".join(sys.argv[1:]).encode()).hexdigest()
 random.seed(hashValue)
