@@ -63,7 +63,7 @@
         {
             "name": "solution_mle.py",
             "language": "py3",
-            "type": "MLE/MCS"
+            "type": "MLE"
         },
         {
             "name": "solution_mle2.cc",
