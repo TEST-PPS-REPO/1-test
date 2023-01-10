@@ -63,7 +63,7 @@
         {
             "name": "solution_mle2.cc",
             "language": "cpp11",
-            "type": "MLE"
+            "type": "MLE/MCS"
         },
         {
             "name": "solution_runtime_error.cc",
