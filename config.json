@@ -77,7 +77,7 @@
         },
         {
             "name": "solution_mle2.cc",
-            "language": "",
+            "language": "cpp11",
             "type": ""
         }
     ],
