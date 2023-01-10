@@ -63,7 +63,7 @@
         {
             "name": "solution_mle.py",
             "language": "py3",
-            "type": "MLE/FAIL"
+            "type": "TLE/MLE/FAIL"
         },
         {
             "name": "solution_mle2.cc",
