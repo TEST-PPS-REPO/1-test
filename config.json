@@ -52,7 +52,7 @@
         {
             "name": "solution_crack.py",
             "language": "py3",
-            "type": "AC/FAIL"
+            "type": "AC/WA/FAIL"
         },
         {
             "name": "solution_heuristic.cc",
