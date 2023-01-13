@@ -55,11 +55,6 @@
             "type": "AC/WA/FAIL"
         },
         {
-            "name": "solution_heuristic.cc",
-            "language": "cpp11",
-            "type": "AC/WA"
-        },
-        {
             "name": "solution_mcs.cc",
             "language": "cpp11",
             "type": "MCS"
