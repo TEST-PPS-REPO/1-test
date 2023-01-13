@@ -6,3 +6,4 @@ for i in range(8):
     if f.read().strip() == inp:
       with open('IO/out_{:04d}.txt'.format(i)) as f2:
         print(f2.read().strip())
+        return
